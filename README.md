@@ -1,2 +1,2 @@
 # Among Us
-My texture mod on Among Us 
+My RUS texture mod on Among Us 
